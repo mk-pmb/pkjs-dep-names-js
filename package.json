@@ -1,0 +1,29 @@
+{ "name": "pkjs-dep-names",
+  "version": "1.0.0",
+  "description": "List identifiers from a module's package.json dependencies and devDependencies in one line each, separated by space",
+  "keywords": [],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/pkjs-dep-names-js/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/pkjs-dep-names-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/pkjs-dep-names-js/issues"
+  },
+
+  "private": false, "license": "ISC",
+
+  "main": "depnames.js",
+  "bin": "depnames.js",
+  "scripts": { "test": "nodejs test/all.js" },
+  "directories": { "test": "test" },
+
+  "dependencies": {},
+  "devDependencies": {
+  },
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
